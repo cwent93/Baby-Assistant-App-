@@ -3,7 +3,7 @@ Baby AI Assistant tracking app that is designed to make parenting easy.
 Privacy Policy for Executive Parenting Dashboard
 Effective Date: June 2, 2026
 1. Introduction
-Welcome to the Executive Parenting Dashboard ("the App"). We are committed to protecting your privacy and the privacy of your family. This Privacy Policy explains how we collect, use, and protect your information when you use our iOS and Android mobile applications.
+Welcome to the Executive Parenting Dashboard ("Baby Assistant App"). We are committed to protecting your privacy and the privacy of your family. This Privacy Policy explains how we collect, use, and protect your information when you use our iOS and Android mobile applications.
 Because the App is designed to help parents track sensitive newborn milestones, health data, and daily schedules, we have built the App with a "privacy-first, local-first" architecture.
 2. Information We Collect
 The App collects and processes information to provide you with an executive-level parenting management experience:
